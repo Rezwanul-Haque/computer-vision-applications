@@ -1,0 +1,13 @@
+name: cv4env
+dependencies:
+  - python==3.7.6
+  # conda packages
+  - jupyterlab==1.2.5
+  - pip:
+    - opencv-contrib-python==4.1.2.30
+    - matplotlib==3.1.2
+    - scikit-image==0.16.2
+    - dlib==19.19.0
+    - face-recognition==1.2.3
+    - cvlib==0.2.3
+    - flask==1.1.1
