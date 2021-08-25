@@ -4,6 +4,6 @@ scikit-image==0.16.2
 dlib==19.19.0
 face-recognition==1.2.3
 cvlib==0.2.3
-tensorflow==1.15.0
+tensorflow==2.5.1
 flask==1.1.1
 jupyterlab==1.2.5
